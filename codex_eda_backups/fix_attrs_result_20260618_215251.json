@@ -1,0 +1,550 @@
+{
+  "mods": [
+    [
+      "C1",
+      "87d27025c6504a1ae20",
+      {
+        "globalIndex": "87d27025c6504a1ae20",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "C1",
+        "formulaName": "C1",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 30,
+          "y": 45.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "C2",
+      "3f9c3e744dd578b5e18",
+      {
+        "globalIndex": "3f9c3e744dd578b5e18",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "C2",
+        "formulaName": "C2",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 30,
+          "y": 36.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "C3",
+      "5e06517532435da3e18",
+      {
+        "globalIndex": "5e06517532435da3e18",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "C3",
+        "formulaName": "C3",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 49.8,
+          "y": 35
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "C4",
+      "be4be1f7c18a410fe20",
+      {
+        "globalIndex": "be4be1f7c18a410fe20",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "C4",
+        "formulaName": "C4",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 91,
+          "y": 38
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "D1",
+      "eca087530b7f0c99e18",
+      {
+        "globalIndex": "eca087530b7f0c99e18",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "D1",
+        "formulaName": "D1",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 65,
+          "y": 47.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "J1",
+      "a26e2778668e1face27",
+      {
+        "globalIndex": "a26e2778668e1face27",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "J1",
+        "formulaName": "J1",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 12,
+          "y": 38
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "J2",
+      "40ff9f3f04b3b786e27",
+      {
+        "globalIndex": "40ff9f3f04b3b786e27",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "J2",
+        "formulaName": "J2",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 102,
+          "y": 38
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "L1",
+      "f71c2b7fcf13526ce14",
+      {
+        "globalIndex": "f71c2b7fcf13526ce14",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "L1",
+        "formulaName": "L1",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 67,
+          "y": 30
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "R1",
+      "d4cd0c59060433e8e16",
+      {
+        "globalIndex": "d4cd0c59060433e8e16",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "R1",
+        "formulaName": "R1",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 83.5,
+          "y": 54
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "R2",
+      "90bcad1952f872f4e16",
+      {
+        "globalIndex": "90bcad1952f872f4e16",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "R2",
+        "formulaName": "R2",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 83.5,
+          "y": 62
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "U1",
+      "bf61d8e31a0c728ce46",
+      {
+        "globalIndex": "bf61d8e31a0c728ce46",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "U1",
+        "formulaName": "U1",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 43,
+          "y": 45.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "R5",
+      "1e1ba399623299dfe16",
+      {
+        "globalIndex": "1e1ba399623299dfe16",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "R5",
+        "formulaName": "R5",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 32,
+          "y": 53.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "R6",
+      "6620c09a0ef5107be16",
+      {
+        "globalIndex": "6620c09a0ef5107be16",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "R6",
+        "formulaName": "R6",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 32,
+          "y": 62
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "R4",
+      "aa2c4cb3d28c7148e16",
+      {
+        "globalIndex": "aa2c4cb3d28c7148e16",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "R4",
+        "formulaName": "R4",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 35,
+          "y": 33.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "R3",
+      "95a03a9ebef68776e16",
+      {
+        "globalIndex": "95a03a9ebef68776e16",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "R3",
+        "formulaName": "R3",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 62,
+          "y": 54.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ],
+    [
+      "C5",
+      "0fa6f75b2e635793e18",
+      {
+        "globalIndex": "0fa6f75b2e635793e18",
+        "layerId": 3,
+        "key": "Designator",
+        "showKey": false,
+        "value": "C5",
+        "formulaName": "C5",
+        "showValue": true,
+        "fontFamily": "default",
+        "fontSize": 1.05,
+        "rotation": 0,
+        "locked": false,
+        "position": {
+          "x": 62,
+          "y": 62.5
+        },
+        "origin": 3,
+        "strokeWidth": 0.06,
+        "reverse": false,
+        "reverseExpansion": 0,
+        "silkColor": null,
+        "mirror": false,
+        "positionIsNull": false
+      }
+    ]
+  ],
+  "des": [
+    {
+      "v": "C1",
+      "x": 300,
+      "y": 455,
+      "rot": 0
+    },
+    {
+      "v": "C2",
+      "x": 300,
+      "y": 365,
+      "rot": 0
+    },
+    {
+      "v": "C3",
+      "x": 498,
+      "y": 350,
+      "rot": 0
+    },
+    {
+      "v": "C4",
+      "x": 910,
+      "y": 380,
+      "rot": 0
+    },
+    {
+      "v": "D1",
+      "x": 650,
+      "y": 475,
+      "rot": 0
+    },
+    {
+      "v": "J1",
+      "x": 120,
+      "y": 380,
+      "rot": 0
+    },
+    {
+      "v": "J2",
+      "x": 1020,
+      "y": 380,
+      "rot": 0
+    },
+    {
+      "v": "L1",
+      "x": 670,
+      "y": 300,
+      "rot": 0
+    },
+    {
+      "v": "R1",
+      "x": 835,
+      "y": 540,
+      "rot": 0
+    },
+    {
+      "v": "R2",
+      "x": 835,
+      "y": 620,
+      "rot": 0
+    },
+    {
+      "v": "U1",
+      "x": 430,
+      "y": 455,
+      "rot": 0
+    },
+    {
+      "v": "R5",
+      "x": 320,
+      "y": 535,
+      "rot": 0
+    },
+    {
+      "v": "R6",
+      "x": 320,
+      "y": 620,
+      "rot": 0
+    },
+    {
+      "v": "R4",
+      "x": 350,
+      "y": 335,
+      "rot": 0
+    },
+    {
+      "v": "R3",
+      "x": 620,
+      "y": 545,
+      "rot": 0
+    },
+    {
+      "v": "C5",
+      "x": 620,
+      "y": 625,
+      "rot": 0
+    }
+  ]
+}

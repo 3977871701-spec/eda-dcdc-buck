@@ -1,0 +1,4623 @@
+{
+  "components": [
+    {
+      "footprint": "9d9141c474896b45",
+      "device": "01915b36a5aff0a9",
+      "globalIndex": "87d27025c6504a1a",
+      "layerId": 1,
+      "position": {
+        "x": 340,
+        "y": 480
+      },
+      "rotation": 180,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "C0805",
+        "Designator": "C1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C45783",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL21A226MAQNNNE",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "1ba041120af144c991958decab20d241|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "C0805_L2.0-W1.3-H1.3",
+        "3D Model Transform": "78.74,51.181,0,0,0,0,0,0.0005,0",
+        "Value": "",
+        "Tolerance": "",
+        "Voltage Rating": "",
+        "Temperature Coefficient": "",
+        "Name": "22uF/25V",
+        "Description": "",
+        "Device": "CL21A226MAQNNNE",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I45",
+        "Unique ID": "gge3"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "87d27025c6504a1ae19",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0805",
+          "formulaName": "C0805",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 48
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "87d27025c6504a1ae20",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C1",
+          "formulaName": "C1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 39.99999999999999,
+            "y": 41.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "87d27025c6504a1ae0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CL21A226MAQNNNE",
+          "formulaName": "CL21A226MAQNNNE",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 48
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "VIN",
+          "id": "e15"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e16"
+        }
+      ],
+      "footprintItemId": "9d9141c474896b45"
+    },
+    {
+      "footprint": "e264128ab9be34c3",
+      "device": "4e57bd4d21bc10f2",
+      "globalIndex": "3f9c3e744dd578b5",
+      "layerId": 1,
+      "position": {
+        "x": 340,
+        "y": 400
+      },
+      "rotation": 180,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "C0603",
+        "Designator": "C2",
+        "LCSC Part Name": "",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ac125912035d415993ca9572d50418b1|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "",
+        "Tolerance": "",
+        "Voltage Rating": "",
+        "Temperature Coefficient": "",
+        "Name": "100nF",
+        "Description": "",
+        "Device": "CC0603KRX7R9BB104",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I46",
+        "Unique ID": "gge4"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "3f9c3e744dd578b5e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0603",
+          "formulaName": "C0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 40
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "3f9c3e744dd578b5e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C2",
+          "formulaName": "C2",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 40,
+            "y": 44.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "3f9c3e744dd578b5e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CC0603KRX7R9BB104",
+          "formulaName": "CC0603KRX7R9BB104",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 40
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "VIN",
+          "id": "e14"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e15"
+        }
+      ],
+      "footprintItemId": "e264128ab9be34c3"
+    },
+    {
+      "footprint": "e264128ab9be34c3",
+      "device": "4e57bd4d21bc10f2",
+      "globalIndex": "5e06517532435da3",
+      "layerId": 1,
+      "position": {
+        "x": 480,
+        "y": 300
+      },
+      "rotation": 180,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "C0603",
+        "Designator": "C3",
+        "LCSC Part Name": "",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ac125912035d415993ca9572d50418b1|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "",
+        "Tolerance": "",
+        "Voltage Rating": "",
+        "Temperature Coefficient": "",
+        "Name": "100nF BOOT",
+        "Description": "",
+        "Device": "CC0603KRX7R9BB104",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I47",
+        "Unique ID": "gge5"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "5e06517532435da3e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0603",
+          "formulaName": "C0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 15.707963267948966,
+          "locked": false,
+          "position": {
+            "x": 48,
+            "y": 30
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "5e06517532435da3e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C3",
+          "formulaName": "C3",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 49.2,
+            "y": 34.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "5e06517532435da3e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CC0603KRX7R9BB104",
+          "formulaName": "CC0603KRX7R9BB104",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 15.707963267948966,
+          "locked": false,
+          "position": {
+            "x": 48,
+            "y": 30
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "SW",
+          "id": "e14"
+        },
+        {
+          "num": "1",
+          "net": "BST",
+          "id": "e15"
+        }
+      ],
+      "footprintItemId": "e264128ab9be34c3"
+    },
+    {
+      "footprint": "e4d0fb5f7104ae65",
+      "device": "8f15b4e0a4db62c1",
+      "globalIndex": "be4be1f7c18a410f",
+      "layerId": 1,
+      "position": {
+        "x": 880,
+        "y": 420
+      },
+      "rotation": 270,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "C1206",
+        "Designator": "C4",
+        "LCSC Part Name": "",
+        "Supplier Part": "CL31A476MPHNNNE.1",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL31A476MPHNNNE",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "e4be705b945545a48e666415e3682bd8|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "C1206_L3.2-W1.6-H1.3",
+        "3D Model Transform": "125.984,62.992,0,0,0,0,0,0,0",
+        "Value": "",
+        "Tolerance": "",
+        "Voltage Rating": "",
+        "Temperature Coefficient": "",
+        "Name": "47uF/10V",
+        "Description": "",
+        "Device": "CL31A476MPHNNNE",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I50",
+        "Unique ID": "gge8"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "be4be1f7c18a410fe19",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C1206",
+          "formulaName": "C1206",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 4.71238898038469,
+          "locked": false,
+          "position": {
+            "x": 88,
+            "y": 42
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "be4be1f7c18a410fe20",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C4",
+          "formulaName": "C4",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 95,
+            "y": 33.22999999999999
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "be4be1f7c18a410fe0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CL31A476MPHNNNE",
+          "formulaName": "CL31A476MPHNNNE",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 4.71238898038469,
+          "locked": false,
+          "position": {
+            "x": 88,
+            "y": 42
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "VOUT",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "e4d0fb5f7104ae65"
+    },
+    {
+      "footprint": "635b8a11cbd96afd",
+      "device": "ad8cd42affa5a7ef",
+      "globalIndex": "eca087530b7f0c99",
+      "layerId": 1,
+      "position": {
+        "x": 630,
+        "y": 440
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "SMA_L4.3-W2.6-LS5.2-RD",
+        "Designator": "D1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C8678",
+        "Manufacturer": "MDD(辰达半导体)",
+        "Manufacturer Part": "SS34",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "e3551acb3c5a4975a5e9d36087fe1fa2|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "SMA_L4.3-W2.6-LS5.2-RD",
+        "3D Model Transform": "185.039,102.362,0,0,0,0,0,0,0",
+        "Diode Configuration": "",
+        "Voltage - Forward(Vf@If)": "",
+        "Voltage - DC Reverse(Vr)": "",
+        "Current - Rectified": "",
+        "Reverse Leakage Current (Ir)": "",
+        "Operating Junction Temperature Range": "",
+        "Name": "SS34",
+        "Description": "",
+        "Device": "SS34_C8678",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I48",
+        "Unique ID": "gge6"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "eca087530b7f0c99e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "SMA_L4.3-W2.6-LS5.2-RD",
+          "formulaName": "SMA_L4.3-W2.6-LS5.2-RD",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 63,
+            "y": 44
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "eca087530b7f0c99e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "D1",
+          "formulaName": "D1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 67.5,
+            "y": 29.840000000000003
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "eca087530b7f0c99e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "SS34_C8678",
+          "formulaName": "SS34_C8678",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 63,
+            "y": 44
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "GND",
+          "id": "e12"
+        },
+        {
+          "num": "1",
+          "net": "SW",
+          "id": "e13"
+        }
+      ],
+      "footprintItemId": "635b8a11cbd96afd"
+    },
+    {
+      "footprint": "706842ffe3ac0973",
+      "device": "128b38217f8cd238",
+      "globalIndex": "a26e2778668e1fac",
+      "layerId": 1,
+      "position": {
+        "x": 150,
+        "y": 520
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "CONN-TH_XY301V-A-5.0-2P",
+        "Designator": "J1",
+        "LCSC Part Name": "",
+        "Supplier Part": "KF301-2P接线端子.1",
+        "Manufacturer": "",
+        "Manufacturer Part": "KF301-2P接线端子",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ef7ead88b0f2448d904975b26718870f|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "CONN-TH_XY301V-A-5.0-2P",
+        "3D Model Transform": "417.322,299.212,0,0,0,0,11.811,-7.835,-157.48",
+        "Name": "KF301-2P接线端子",
+        "Description": "",
+        "Device": "KF301-2P接线端子",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I43",
+        "Unique ID": "gge1"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "a26e2778668e1face26",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "CONN-TH_XY301V-A-5.0-2P",
+          "formulaName": "CONN-TH_XY301V-A-5.0-2P",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 15,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "a26e2778668e1face27",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "J1",
+          "formulaName": "J1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 4,
+            "y": 38
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "a26e2778668e1face0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "KF301-2P接线端子",
+          "formulaName": "KF301-2P接线端子",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 15,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "1",
+          "net": "VIN",
+          "id": "e24"
+        },
+        {
+          "num": "2",
+          "net": "GND",
+          "id": "e25"
+        }
+      ],
+      "footprintItemId": "706842ffe3ac0973"
+    },
+    {
+      "footprint": "706842ffe3ac0973",
+      "device": "128b38217f8cd238",
+      "globalIndex": "40ff9f3f04b3b786",
+      "layerId": 1,
+      "position": {
+        "x": 1060,
+        "y": 520
+      },
+      "rotation": 270,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "CONN-TH_XY301V-A-5.0-2P",
+        "Designator": "J2",
+        "LCSC Part Name": "",
+        "Supplier Part": "KF301-2P接线端子.1",
+        "Manufacturer": "",
+        "Manufacturer Part": "KF301-2P接线端子",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ef7ead88b0f2448d904975b26718870f|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "CONN-TH_XY301V-A-5.0-2P",
+        "3D Model Transform": "417.322,299.212,0,0,0,0,11.811,-7.835,-157.48",
+        "Name": "KF301-2P接线端子",
+        "Description": "",
+        "Device": "KF301-2P接线端子",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I53",
+        "Unique ID": "gge11"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "40ff9f3f04b3b786e26",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "CONN-TH_XY301V-A-5.0-2P",
+          "formulaName": "CONN-TH_XY301V-A-5.0-2P",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": -1.570796326794897,
+          "locked": false,
+          "position": {
+            "x": 106,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "40ff9f3f04b3b786e27",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "J2",
+          "formulaName": "J2",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 112,
+            "y": 38.66
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "40ff9f3f04b3b786e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "KF301-2P接线端子",
+          "formulaName": "KF301-2P接线端子",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": -1.570796326794897,
+          "locked": false,
+          "position": {
+            "x": 106,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e24"
+        },
+        {
+          "num": "2",
+          "net": "VOUT",
+          "id": "e25"
+        }
+      ],
+      "footprintItemId": "706842ffe3ac0973"
+    },
+    {
+      "footprint": "ebfbbea0ba4a4394",
+      "device": "5031c6ff4ab55728",
+      "globalIndex": "f71c2b7fcf13526c",
+      "layerId": 1,
+      "position": {
+        "x": 690,
+        "y": 350
+      },
+      "rotation": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "IND-SMD_L5.7-W5.1",
+        "Designator": "L1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C9900015114",
+        "Manufacturer": "",
+        "Manufacturer Part": "功率电感(贴片),CKST0502-10uH/M,10uH,±20%,3A,封装5.7mm*5.1mm*2.0mm,岑科,RoHS",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ffd856615f974dd9b1ff3f65e3b3100d|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "IND-SMD_L5.7-W5.1",
+        "3D Model Transform": "224.409,200.787,0,0,0,0,0,-0.591,0",
+        "Name": "10uH/3A",
+        "Description": "",
+        "Device": "功率电感(贴片),CKST0502-10uH/M,10uH,±20%,3A,封装5.7mm*5.1mm*2.0mm,岑科,RoHS",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I49",
+        "Unique ID": "gge7"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "f71c2b7fcf13526ce13",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "IND-SMD_L5.7-W5.1",
+          "formulaName": "IND-SMD_L5.7-W5.1",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 69,
+            "y": 35
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "f71c2b7fcf13526ce14",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "L1",
+          "formulaName": "L1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 66.5,
+            "y": 27.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "f71c2b7fcf13526ce0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "功率电感(贴片),CKST0502-10uH/M,10uH,±20%,3A,封装5.7mm*5.1mm*2.0mm,岑科,RoHS",
+          "formulaName": "功率电感(贴片),CKST0502-10uH/M,10uH,±20%,3A,封装5.7mm*5.1mm*2.0mm,岑科,RoHS",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 69,
+            "y": 35
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "1",
+          "net": "SW",
+          "id": "e3"
+        },
+        {
+          "num": "2",
+          "net": "VOUT",
+          "id": "e4"
+        }
+      ],
+      "footprintItemId": "ebfbbea0ba4a4394"
+    },
+    {
+      "footprint": "8d16d68204b217ad",
+      "device": "7da5fe723292ea08",
+      "globalIndex": "d4cd0c59060433e8",
+      "layerId": 1,
+      "position": {
+        "x": 790,
+        "y": 570
+      },
+      "rotation": 0,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "R0603",
+        "Designator": "R1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C25808",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1203T5E",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "",
+        "Value": "",
+        "Tolerance": "",
+        "Power(Watts)": "",
+        "Voltage-Supply(Max)": "",
+        "Temperature Coefficient": "",
+        "Operating Temperature": "",
+        "Name": "120k",
+        "Description": "",
+        "Device": "0603WAF1203T5E",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I51",
+        "Unique ID": "gge9"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "d4cd0c59060433e8e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 57
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "d4cd0c59060433e8e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R1",
+          "formulaName": "R1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 73,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "d4cd0c59060433e8e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 57
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "VOUT",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "FB",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "8d16d68204b217ad"
+    },
+    {
+      "footprint": "8d16d68204b217ad",
+      "device": "3e85921e449995da",
+      "globalIndex": "90bcad1952f872f4",
+      "layerId": 1,
+      "position": {
+        "x": 790,
+        "y": 640
+      },
+      "rotation": 180,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "R0603",
+        "Designator": "R2",
+        "LCSC Part Name": "",
+        "Supplier Part": "C31850",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF2202T5E",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "",
+        "Value": "",
+        "Tolerance": "",
+        "Power(Watts)": "",
+        "Voltage-Supply(Max)": "",
+        "Temperature Coefficient": "",
+        "Operating Temperature": "",
+        "Name": "22k",
+        "Description": "",
+        "Device": "0603WAF2202T5E",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I52",
+        "Unique ID": "gge10"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "90bcad1952f872f4e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 64
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "90bcad1952f872f4e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R2",
+          "formulaName": "R2",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 81.5,
+            "y": 69.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "90bcad1952f872f4e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF2202T5E",
+          "formulaName": "0603WAF2202T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 64
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "FB",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "8d16d68204b217ad"
+    },
+    {
+      "footprint": "1f8f2afb27343474",
+      "device": "a1bffa2c6faa5630",
+      "globalIndex": "bf61d8e31a0c728c",
+      "layerId": 1,
+      "position": {
+        "x": 480,
+        "y": 420
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3",
+        "Designator": "U1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C454188",
+        "Manufacturer": "",
+        "Manufacturer Part": "MP1584EN",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "c3c74db5ad5f487c86927a0de5bee493|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3",
+        "3D Model Transform": "192.913,236.22,0,0,0,0,0,0,0",
+        "Name": "MP1584EN",
+        "Description": "",
+        "Device": "MP1584EN",
+        "Unique ID": "gge2",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I44"
+      },
+      "ATTR": [
+        {
+          "globalIndex": "bf61d8e31a0c728ce45",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3",
+          "formulaName": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 14.137166941154069,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "bf61d8e31a0c728ce46",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "U1",
+          "formulaName": "U1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 42,
+            "y": 28
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "bf61d8e31a0c728ce0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "MP1584EN",
+          "formulaName": "MP1584EN",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 14.137166941154069,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "9",
+          "net": "GND",
+          "id": "e19"
+        },
+        {
+          "num": "5",
+          "net": "GND",
+          "id": "e20"
+        },
+        {
+          "num": "6",
+          "net": "FREQ",
+          "id": "e21"
+        },
+        {
+          "num": "7",
+          "net": "VIN",
+          "id": "e22"
+        },
+        {
+          "num": "8",
+          "net": "BST",
+          "id": "e23"
+        },
+        {
+          "num": "4",
+          "net": "FB",
+          "id": "e24"
+        },
+        {
+          "num": "3",
+          "net": "COMP",
+          "id": "e25"
+        },
+        {
+          "num": "2",
+          "net": "EN",
+          "id": "e26"
+        },
+        {
+          "num": "1",
+          "net": "SW",
+          "id": "e27"
+        }
+      ],
+      "footprintItemId": "1f8f2afb27343474"
+    },
+    {
+      "footprint": "8d16d68204b217ad",
+      "device": "7da5fe723292ea08",
+      "globalIndex": "1e1ba399623299df",
+      "layerId": 1,
+      "position": {
+        "x": 350,
+        "y": 560
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "R0603",
+        "Designator": "R5",
+        "LCSC Part Name": "120kΩ ±1% 100mW 厚膜电阻",
+        "Supplier Part": "C25808",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1203T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1203T5E/26551.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "120kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "100k",
+        "Description": "电阻类型:厚膜电阻;阻值:120kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+        "Device": "0603WAF1203T5E",
+        "Unique ID": "$1",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": ""
+      },
+      "ATTR": [
+        {
+          "globalIndex": "1e1ba399623299dfe15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "1e1ba399623299dfe16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R5",
+          "formulaName": "R5",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 31.599200000000003,
+            "y": 50.2469
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "1e1ba399623299dfe0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "EN",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "VIN",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "8d16d68204b217ad"
+    },
+    {
+      "footprint": "8d16d68204b217ad",
+      "device": "7da5fe723292ea08",
+      "globalIndex": "6620c09a0ef5107b",
+      "layerId": 1,
+      "position": {
+        "x": 350,
+        "y": 660
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "R0603",
+        "Designator": "R6",
+        "LCSC Part Name": "120kΩ ±1% 100mW 厚膜电阻",
+        "Supplier Part": "C25808",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1203T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1203T5E/26551.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "120kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "24.9k",
+        "Description": "电阻类型:厚膜电阻;阻值:120kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+        "Device": "0603WAF1203T5E",
+        "Unique ID": "$2",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": ""
+      },
+      "ATTR": [
+        {
+          "globalIndex": "6620c09a0ef5107be15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "6620c09a0ef5107be16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R6",
+          "formulaName": "R6",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 31.599200000000003,
+            "y": 60.246900000000004
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "6620c09a0ef5107be0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "EN",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "8d16d68204b217ad"
+    },
+    {
+      "footprint": "8d16d68204b217ad",
+      "device": "7da5fe723292ea08",
+      "globalIndex": "aa2c4cb3d28c7148",
+      "layerId": 1,
+      "position": {
+        "x": 390,
+        "y": 310
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "R0603",
+        "Designator": "R4",
+        "LCSC Part Name": "120kΩ ±1% 100mW 厚膜电阻",
+        "Supplier Part": "C25808",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1203T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1203T5E/26551.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "120kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "200k",
+        "Description": "电阻类型:厚膜电阻;阻值:120kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+        "Device": "0603WAF1203T5E",
+        "Unique ID": "$3",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": ""
+      },
+      "ATTR": [
+        {
+          "globalIndex": "aa2c4cb3d28c7148e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "aa2c4cb3d28c7148e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R4",
+          "formulaName": "R4",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 35.5992,
+            "y": 25.2469
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "aa2c4cb3d28c7148e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "FREQ",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "8d16d68204b217ad"
+    },
+    {
+      "footprint": "8d16d68204b217ad",
+      "device": "7da5fe723292ea08",
+      "globalIndex": "95a03a9ebef68776",
+      "layerId": 1,
+      "position": {
+        "x": 690,
+        "y": 570
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "R0603",
+        "Designator": "R3",
+        "LCSC Part Name": "120kΩ ±1% 100mW 厚膜电阻",
+        "Supplier Part": "C25808",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1203T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1203T5E/26551.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "120kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "68.1k",
+        "Description": "电阻类型:厚膜电阻;阻值:120kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+        "Device": "0603WAF1203T5E",
+        "Unique ID": "$4",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": ""
+      },
+      "ATTR": [
+        {
+          "globalIndex": "95a03a9ebef68776e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "95a03a9ebef68776e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R3",
+          "formulaName": "R3",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 65.5992,
+            "y": 51.246900000000004
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "95a03a9ebef68776e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "COMP_RC",
+          "id": "e7"
+        },
+        {
+          "num": "1",
+          "net": "COMP",
+          "id": "e8"
+        }
+      ],
+      "footprintItemId": "8d16d68204b217ad"
+    },
+    {
+      "footprint": "e264128ab9be34c3",
+      "device": "4e57bd4d21bc10f2",
+      "globalIndex": "0fa6f75b2e635793",
+      "layerId": 1,
+      "position": {
+        "x": 690,
+        "y": 660
+      },
+      "rotation": 90,
+      "textOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "locked": false,
+      "attrsMap": {
+        "Footprint": "C0603",
+        "Designator": "C5",
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ac125912035d415993ca9572d50418b1|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "220pF",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+        "Device": "CC0603KRX7R9BB104",
+        "Unique ID": "$5",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": ""
+      },
+      "ATTR": [
+        {
+          "globalIndex": "0fa6f75b2e635793e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0603",
+          "formulaName": "C0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "0fa6f75b2e635793e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C5",
+          "formulaName": "C5",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 65.2043,
+            "y": 60.0279
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "0fa6f75b2e635793e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CC0603KRX7R9BB104",
+          "formulaName": "CC0603KRX7R9BB104",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "pads": [
+        {
+          "num": "2",
+          "net": "COMP_RC",
+          "id": "e14"
+        },
+        {
+          "num": "1",
+          "net": "GND",
+          "id": "e15"
+        }
+      ],
+      "footprintItemId": "e264128ab9be34c3"
+    }
+  ],
+  "tracks": [
+    {
+      "globalIndex": "e5743eb37a755c70",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 11.8,
+        "y": 25
+      },
+      "end": {
+        "x": 101.2,
+        "y": 25
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 118,
+      "startY": 250,
+      "endX": 1012,
+      "endY": 250
+    },
+    {
+      "globalIndex": "f6b702cd476b83e8",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 101.2,
+        "y": 25
+      },
+      "end": {
+        "x": 104,
+        "y": 27.8
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 1012,
+      "startY": 250,
+      "endX": 1040,
+      "endY": 278
+    },
+    {
+      "globalIndex": "fd4b88d15d2c98d0",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 104,
+        "y": 27.8
+      },
+      "end": {
+        "x": 104,
+        "y": 67.2
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 1040,
+      "startY": 278,
+      "endX": 1040,
+      "endY": 672
+    },
+    {
+      "globalIndex": "e54d7ea8e073fade",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 104,
+        "y": 67.2
+      },
+      "end": {
+        "x": 101.2,
+        "y": 70
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 1040,
+      "startY": 672,
+      "endX": 1012,
+      "endY": 700
+    },
+    {
+      "globalIndex": "c38b359289af9f80",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 101.2,
+        "y": 70
+      },
+      "end": {
+        "x": 11.8,
+        "y": 70
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 1012,
+      "startY": 700,
+      "endX": 118,
+      "endY": 700
+    },
+    {
+      "globalIndex": "573a901ecdd5fbfb",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 11.8,
+        "y": 70
+      },
+      "end": {
+        "x": 9,
+        "y": 67.2
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 118,
+      "startY": 700,
+      "endX": 90,
+      "endY": 672
+    },
+    {
+      "globalIndex": "b66340d49b46f71d",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 9,
+        "y": 67.2
+      },
+      "end": {
+        "x": 9,
+        "y": 27.8
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 90,
+      "startY": 672,
+      "endX": 90,
+      "endY": 278
+    },
+    {
+      "globalIndex": "139c91743f1e0ad9",
+      "partition": "",
+      "layerId": 11,
+      "start": {
+        "x": 9,
+        "y": 27.8
+      },
+      "end": {
+        "x": 11.8,
+        "y": 25
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "",
+      "startX": 90,
+      "startY": 278,
+      "endX": 118,
+      "endY": 250
+    },
+    {
+      "globalIndex": "fb7f0048ac4d0548",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 15,
+        "y": 40.160000000000004
+      },
+      "end": {
+        "x": 24,
+        "y": 40.160000000000004
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VIN",
+      "startX": 150,
+      "startY": 401.6,
+      "endX": 240,
+      "endY": 401.6
+    },
+    {
+      "globalIndex": "454276b93184b967",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 24,
+        "y": 40.160000000000004
+      },
+      "end": {
+        "x": 28.5,
+        "y": 42.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VIN",
+      "startX": 240,
+      "startY": 401.6,
+      "endX": 285,
+      "endY": 425
+    },
+    {
+      "globalIndex": "b5bc7041c587ea52",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 28.5,
+        "y": 42.5
+      },
+      "end": {
+        "x": 35.6,
+        "y": 39
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VIN",
+      "startX": 285,
+      "startY": 425,
+      "endX": 356,
+      "endY": 390
+    },
+    {
+      "globalIndex": "07a39ebbadc2ae2b",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 35.6,
+        "y": 39
+      },
+      "end": {
+        "x": 36.1,
+        "y": 38.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VIN",
+      "startX": 356,
+      "startY": 390,
+      "endX": 361,
+      "endY": 385
+    },
+    {
+      "globalIndex": "1a5639841e2fe672",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 28.5,
+        "y": 48.5
+      },
+      "end": {
+        "x": 33,
+        "y": 51
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VIN",
+      "startX": 285,
+      "startY": 485,
+      "endX": 330,
+      "endY": 510
+    },
+    {
+      "globalIndex": "ef9419c5b258745c",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 36.1,
+        "y": 33.5
+      },
+      "end": {
+        "x": 43,
+        "y": 33.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "BST",
+      "startX": 361,
+      "startY": 335,
+      "endX": 430,
+      "endY": 335
+    },
+    {
+      "globalIndex": "2be40f9408217599",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 43,
+        "y": 33.5
+      },
+      "end": {
+        "x": 47.239999999999995,
+        "y": 30
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "BST",
+      "startX": 430,
+      "startY": 335,
+      "endX": 472.4,
+      "endY": 300
+    },
+    {
+      "globalIndex": "b2cf6188a6acf87d",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 45.239999999999995,
+        "y": 30
+      },
+      "end": {
+        "x": 52,
+        "y": 30
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "SW",
+      "startX": 452.4,
+      "startY": 300,
+      "endX": 520,
+      "endY": 300
+    },
+    {
+      "globalIndex": "e4312fe6fa17909e",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 52,
+        "y": 30
+      },
+      "end": {
+        "x": 60,
+        "y": 33.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "SW",
+      "startX": 520,
+      "startY": 300,
+      "endX": 600,
+      "endY": 335
+    },
+    {
+      "globalIndex": "7986e6c4541b6fb9",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 60,
+        "y": 33.5
+      },
+      "end": {
+        "x": 59.5,
+        "y": 37.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "SW",
+      "startX": 600,
+      "startY": 335,
+      "endX": 595,
+      "endY": 375
+    },
+    {
+      "globalIndex": "b89a173bf5cc8a38",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 60,
+        "y": 33.5
+      },
+      "end": {
+        "x": 63.5,
+        "y": 33.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "SW",
+      "startX": 600,
+      "startY": 335,
+      "endX": 635,
+      "endY": 335
+    },
+    {
+      "globalIndex": "efcdcf960bc8c4ba",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 73.5,
+        "y": 33.5
+      },
+      "end": {
+        "x": 82.5,
+        "y": 35.730000000000004
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VOUT",
+      "startX": 735,
+      "startY": 335,
+      "endX": 825,
+      "endY": 357.30000000000007
+    },
+    {
+      "globalIndex": "9c94796741bf7ade",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 82.5,
+        "y": 35.730000000000004
+      },
+      "end": {
+        "x": 91,
+        "y": 40
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VOUT",
+      "startX": 825,
+      "startY": 357.30000000000007,
+      "endX": 910,
+      "endY": 400
+    },
+    {
+      "globalIndex": "a6565c98b025ee31",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 91,
+        "y": 40
+      },
+      "end": {
+        "x": 97,
+        "y": 40.160000000000004
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VOUT",
+      "startX": 910,
+      "startY": 400,
+      "endX": 970,
+      "endY": 401.6
+    },
+    {
+      "globalIndex": "16a3e89fa61a5632",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 82.5,
+        "y": 35.730000000000004
+      },
+      "end": {
+        "x": 79,
+        "y": 44.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VOUT",
+      "startX": 825,
+      "startY": 357.30000000000007,
+      "endX": 790,
+      "endY": 445
+    },
+    {
+      "globalIndex": "67882921f64dc1aa",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 79,
+        "y": 44.5
+      },
+      "end": {
+        "x": 78.97,
+        "y": 52.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "VOUT",
+      "startX": 790,
+      "startY": 445,
+      "endX": 789.7,
+      "endY": 525
+    },
+    {
+      "globalIndex": "28fcfb129f4e2612",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 72.97,
+        "y": 52.5
+      },
+      "end": {
+        "x": 69,
+        "y": 50
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FB",
+      "startX": 729.7,
+      "startY": 525,
+      "endX": 690,
+      "endY": 500
+    },
+    {
+      "globalIndex": "a2a746bbff0ba6ce",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 69,
+        "y": 50
+      },
+      "end": {
+        "x": 62,
+        "y": 49
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FB",
+      "startX": 690,
+      "startY": 500,
+      "endX": 620,
+      "endY": 490
+    },
+    {
+      "globalIndex": "08243df5de9efb31",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 62,
+        "y": 49
+      },
+      "end": {
+        "x": 59.9,
+        "y": 48.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FB",
+      "startX": 620,
+      "startY": 490,
+      "endX": 599,
+      "endY": 485
+    },
+    {
+      "globalIndex": "9126eb62972a19a8",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 72.97,
+        "y": 52.5
+      },
+      "end": {
+        "x": 72.97,
+        "y": 59
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FB",
+      "startX": 729.7,
+      "startY": 525,
+      "endX": 729.7,
+      "endY": 590
+    },
+    {
+      "globalIndex": "c8053876aa01643c",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 59.9,
+        "y": 43.5
+      },
+      "end": {
+        "x": 61.5,
+        "y": 50
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "COMP",
+      "startX": 599,
+      "startY": 435,
+      "endX": 615,
+      "endY": 500
+    },
+    {
+      "globalIndex": "1bb81c7e74743267",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 61.5,
+        "y": 50
+      },
+      "end": {
+        "x": 61,
+        "y": 51.03
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "COMP",
+      "startX": 615,
+      "startY": 500,
+      "endX": 610,
+      "endY": 510.3
+    },
+    {
+      "globalIndex": "ce7aaa6912f7e11b",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 61,
+        "y": 56.970000000000006
+      },
+      "end": {
+        "x": 61,
+        "y": 58.739999999999995
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "COMP_RC",
+      "startX": 610,
+      "startY": 569.7,
+      "endX": 610,
+      "endY": 587.4
+    },
+    {
+      "globalIndex": "ffa91bfe3cbaa7be",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 36.1,
+        "y": 43.5
+      },
+      "end": {
+        "x": 37,
+        "y": 43
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FREQ",
+      "startX": 361,
+      "startY": 435,
+      "endX": 370,
+      "endY": 430
+    },
+    {
+      "globalIndex": "0bc835abb039efbb",
+      "partition": "",
+      "layerId": 2,
+      "start": {
+        "x": 37,
+        "y": 43
+      },
+      "end": {
+        "x": 39,
+        "y": 38.2
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FREQ",
+      "startX": 370,
+      "startY": 430,
+      "endX": 390,
+      "endY": 382
+    },
+    {
+      "globalIndex": "6e4a323845ec61f2",
+      "partition": "",
+      "layerId": 2,
+      "start": {
+        "x": 39,
+        "y": 38.2
+      },
+      "end": {
+        "x": 38.5,
+        "y": 32.97
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "FREQ",
+      "startX": 390,
+      "startY": 382,
+      "endX": 385,
+      "endY": 329.7
+    },
+    {
+      "globalIndex": "d37cba3b15783f33",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 37.94,
+        "y": 47
+      },
+      "end": {
+        "x": 43,
+        "y": 47
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 379.4,
+      "startY": 470,
+      "endX": 430,
+      "endY": 470
+    },
+    {
+      "globalIndex": "96e6090fb6507e2c",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 36.760000000000005,
+        "y": 36
+      },
+      "end": {
+        "x": 40,
+        "y": 42
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 367.6,
+      "startY": 360,
+      "endX": 400,
+      "endY": 420
+    },
+    {
+      "globalIndex": "e4da2590c680728f",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 47.8,
+        "y": 41
+      },
+      "end": {
+        "x": 50,
+        "y": 45.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 478,
+      "startY": 410,
+      "endX": 500,
+      "endY": 455
+    },
+    {
+      "globalIndex": "62ca45bfdc597e7b",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 50,
+        "y": 45.5
+      },
+      "end": {
+        "x": 57,
+        "y": 47
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 500,
+      "startY": 455,
+      "endX": 570,
+      "endY": 470
+    },
+    {
+      "globalIndex": "623e21cd7383383d",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 57,
+        "y": 47
+      },
+      "end": {
+        "x": 59.5,
+        "y": 47.44
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 570,
+      "startY": 470,
+      "endX": 595,
+      "endY": 474.4
+    },
+    {
+      "globalIndex": "c1f05790233d63f3",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 82.5,
+        "y": 48.269999999999996
+      },
+      "end": {
+        "x": 90,
+        "y": 54.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 825,
+      "startY": 482.69999999999993,
+      "endX": 900,
+      "endY": 545
+    },
+    {
+      "globalIndex": "c3ceda602763643a",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 90,
+        "y": 54.5
+      },
+      "end": {
+        "x": 97,
+        "y": 59.839999999999996
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 900,
+      "startY": 545,
+      "endX": 970,
+      "endY": 598.4
+    },
+    {
+      "globalIndex": "693dd85f502a6e12",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 78.97,
+        "y": 59
+      },
+      "end": {
+        "x": 83,
+        "y": 59
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 789.7,
+      "startY": 590,
+      "endX": 830,
+      "endY": 590
+    },
+    {
+      "globalIndex": "5f4da001d10e2c22",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 83,
+        "y": 59
+      },
+      "end": {
+        "x": 90,
+        "y": 54.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 830,
+      "startY": 590,
+      "endX": 900,
+      "endY": 545
+    },
+    {
+      "globalIndex": "fd157aea12f4e5b2",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 38.5,
+        "y": 27.03
+      },
+      "end": {
+        "x": 43,
+        "y": 30
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 385,
+      "startY": 270.3,
+      "endX": 430,
+      "endY": 300
+    },
+    {
+      "globalIndex": "e3d35f12da4c675f",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 43,
+        "y": 30
+      },
+      "end": {
+        "x": 47.8,
+        "y": 41
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 430,
+      "startY": 300,
+      "endX": 478,
+      "endY": 410
+    },
+    {
+      "globalIndex": "397323c5b72f1247",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 33,
+        "y": 64.97
+      },
+      "end": {
+        "x": 26,
+        "y": 65
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 330,
+      "startY": 649.7,
+      "endX": 260,
+      "endY": 650
+    },
+    {
+      "globalIndex": "6367672285dc139e",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 26,
+        "y": 65
+      },
+      "end": {
+        "x": 15,
+        "y": 59.839999999999996
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 260,
+      "startY": 650,
+      "endX": 150,
+      "endY": 598.4
+    },
+    {
+      "globalIndex": "67ec056ca08f6503",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 61,
+        "y": 64.26
+      },
+      "end": {
+        "x": 69,
+        "y": 64
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 610,
+      "startY": 642.6,
+      "endX": 690,
+      "endY": 640
+    },
+    {
+      "globalIndex": "2be19e5876dd61b4",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 69,
+        "y": 64
+      },
+      "end": {
+        "x": 78.97,
+        "y": 59
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "GND",
+      "startX": 690,
+      "startY": 640,
+      "endX": 789.7,
+      "endY": 590
+    },
+    {
+      "globalIndex": "bbbb43167331a624",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 33,
+        "y": 56.970000000000006
+      },
+      "end": {
+        "x": 37,
+        "y": 56.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "EN",
+      "startX": 330,
+      "startY": 569.7,
+      "endX": 370,
+      "endY": 565
+    },
+    {
+      "globalIndex": "c83324bb45c40555",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 37,
+        "y": 56.5
+      },
+      "end": {
+        "x": 45.5,
+        "y": 50
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "EN",
+      "startX": 370,
+      "startY": 565,
+      "endX": 455,
+      "endY": 500
+    },
+    {
+      "globalIndex": "20f32ec2fea3e1c8",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 45.5,
+        "y": 50
+      },
+      "end": {
+        "x": 59.9,
+        "y": 38.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "EN",
+      "startX": 455,
+      "startY": 500,
+      "endX": 599,
+      "endY": 385
+    },
+    {
+      "globalIndex": "11b776496ea0b574",
+      "partition": "",
+      "layerId": 1,
+      "start": {
+        "x": 33,
+        "y": 51.03
+      },
+      "end": {
+        "x": 37,
+        "y": 56.5
+      },
+      "width": 0.03937,
+      "locked": false,
+      "net": "EN",
+      "startX": 330,
+      "startY": 510.3,
+      "endX": 370,
+      "endY": 565
+    }
+  ],
+  "vias": [
+    {
+      "globalIndex": "209cbf92a5bbd8d7",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "FREQ",
+      "radius": 0.375,
+      "center": {
+        "x": 37,
+        "y": 43
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "22e2584943911db9",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "FREQ",
+      "radius": 0.375,
+      "center": {
+        "x": 38.5,
+        "y": 32.97
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "6da9775455201a97",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 45.5,
+        "y": 45.5
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "11df8304342fd570",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 50,
+        "y": 45.5
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "2b0c6f3c7f474cef",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 45.5,
+        "y": 50
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "d16e461ed3f3cb1b",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 50,
+        "y": 50
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "ceed2c8f578b8940",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 28.5,
+        "y": 50.5
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "49d66efa6ef6e9e6",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 85,
+        "y": 50
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    },
+    {
+      "globalIndex": "b6229b4c3af1a512",
+      "partition": "",
+      "type": 0,
+      "name": "",
+      "startLayer": 1,
+      "endLayer": 2,
+      "unusedInnerLayers": [],
+      "net": "GND",
+      "radius": 0.4,
+      "center": {
+        "x": 61,
+        "y": 53.5
+      },
+      "holeRadius": 0.175,
+      "locked": false,
+      "expansion": 1,
+      "topExpansion": -100,
+      "bottomExpansion": -100,
+      "isSuture": false
+    }
+  ],
+  "coppers": [],
+  "attrs": [
+    {
+      "attrs": [
+        {
+          "globalIndex": "87d27025c6504a1ae19",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0805",
+          "formulaName": "C0805",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 48
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "87d27025c6504a1ae20",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C1",
+          "formulaName": "C1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 39.99999999999999,
+            "y": 41.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "87d27025c6504a1ae0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CL21A226MAQNNNE",
+          "formulaName": "CL21A226MAQNNNE",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 48
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "87d27025c6504a1a"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "3f9c3e744dd578b5e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0603",
+          "formulaName": "C0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 40
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "3f9c3e744dd578b5e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C2",
+          "formulaName": "C2",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 40,
+            "y": 44.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "3f9c3e744dd578b5e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CC0603KRX7R9BB104",
+          "formulaName": "CC0603KRX7R9BB104",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 9.42477796076938,
+          "locked": false,
+          "position": {
+            "x": 34,
+            "y": 40
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "3f9c3e744dd578b5"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "5e06517532435da3e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0603",
+          "formulaName": "C0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 15.707963267948966,
+          "locked": false,
+          "position": {
+            "x": 48,
+            "y": 30
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "5e06517532435da3e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C3",
+          "formulaName": "C3",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 49.2,
+            "y": 34.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "5e06517532435da3e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CC0603KRX7R9BB104",
+          "formulaName": "CC0603KRX7R9BB104",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 15.707963267948966,
+          "locked": false,
+          "position": {
+            "x": 48,
+            "y": 30
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "5e06517532435da3"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "be4be1f7c18a410fe19",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C1206",
+          "formulaName": "C1206",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 4.71238898038469,
+          "locked": false,
+          "position": {
+            "x": 88,
+            "y": 42
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "be4be1f7c18a410fe20",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C4",
+          "formulaName": "C4",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 95,
+            "y": 33.22999999999999
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "be4be1f7c18a410fe0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CL31A476MPHNNNE",
+          "formulaName": "CL31A476MPHNNNE",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 4.71238898038469,
+          "locked": false,
+          "position": {
+            "x": 88,
+            "y": 42
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "be4be1f7c18a410f"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "eca087530b7f0c99e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "SMA_L4.3-W2.6-LS5.2-RD",
+          "formulaName": "SMA_L4.3-W2.6-LS5.2-RD",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 63,
+            "y": 44
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "eca087530b7f0c99e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "D1",
+          "formulaName": "D1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 67.5,
+            "y": 29.840000000000003
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "eca087530b7f0c99e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "SS34_C8678",
+          "formulaName": "SS34_C8678",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 63,
+            "y": 44
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "eca087530b7f0c99"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "a26e2778668e1face26",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "CONN-TH_XY301V-A-5.0-2P",
+          "formulaName": "CONN-TH_XY301V-A-5.0-2P",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 15,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "a26e2778668e1face27",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "J1",
+          "formulaName": "J1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 4,
+            "y": 38
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "a26e2778668e1face0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "KF301-2P接线端子",
+          "formulaName": "KF301-2P接线端子",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 15,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "a26e2778668e1fac"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "40ff9f3f04b3b786e26",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "CONN-TH_XY301V-A-5.0-2P",
+          "formulaName": "CONN-TH_XY301V-A-5.0-2P",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": -1.570796326794897,
+          "locked": false,
+          "position": {
+            "x": 106,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "40ff9f3f04b3b786e27",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "J2",
+          "formulaName": "J2",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 112,
+            "y": 38.66
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "40ff9f3f04b3b786e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "KF301-2P接线端子",
+          "formulaName": "KF301-2P接线端子",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": -1.570796326794897,
+          "locked": false,
+          "position": {
+            "x": 106,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "40ff9f3f04b3b786"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "f71c2b7fcf13526ce13",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "IND-SMD_L5.7-W5.1",
+          "formulaName": "IND-SMD_L5.7-W5.1",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 69,
+            "y": 35
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "f71c2b7fcf13526ce14",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "L1",
+          "formulaName": "L1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 66.5,
+            "y": 27.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "f71c2b7fcf13526ce0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "功率电感(贴片),CKST0502-10uH/M,10uH,±20%,3A,封装5.7mm*5.1mm*2.0mm,岑科,RoHS",
+          "formulaName": "功率电感(贴片),CKST0502-10uH/M,10uH,±20%,3A,封装5.7mm*5.1mm*2.0mm,岑科,RoHS",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 69,
+            "y": 35
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "f71c2b7fcf13526c"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "d4cd0c59060433e8e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 57
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "d4cd0c59060433e8e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R1",
+          "formulaName": "R1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 73,
+            "y": 52
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "d4cd0c59060433e8e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 57
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "d4cd0c59060433e8"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "90bcad1952f872f4e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 64
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "90bcad1952f872f4e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R2",
+          "formulaName": "R2",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 81.5,
+            "y": 69.5
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "90bcad1952f872f4e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF2202T5E",
+          "formulaName": "0603WAF2202T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 3.141592653589793,
+          "locked": false,
+          "position": {
+            "x": 79,
+            "y": 64
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "90bcad1952f872f4"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "bf61d8e31a0c728ce45",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3",
+          "formulaName": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.3",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 14.137166941154069,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "bf61d8e31a0c728ce46",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "U1",
+          "formulaName": "U1",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 0,
+          "locked": false,
+          "position": {
+            "x": 42,
+            "y": 28
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "bf61d8e31a0c728ce0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "MP1584EN",
+          "formulaName": "MP1584EN",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 14.137166941154069,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "bf61d8e31a0c728c"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "1e1ba399623299dfe15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "1e1ba399623299dfe16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R5",
+          "formulaName": "R5",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 31.599200000000003,
+            "y": 50.2469
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "1e1ba399623299dfe0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "1e1ba399623299df"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "6620c09a0ef5107be15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "6620c09a0ef5107be16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R6",
+          "formulaName": "R6",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 31.599200000000003,
+            "y": 60.246900000000004
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "6620c09a0ef5107be0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "6620c09a0ef5107b"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "aa2c4cb3d28c7148e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "aa2c4cb3d28c7148e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R4",
+          "formulaName": "R4",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 35.5992,
+            "y": 25.2469
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "aa2c4cb3d28c7148e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "aa2c4cb3d28c7148"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "95a03a9ebef68776e15",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "R0603",
+          "formulaName": "R0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "95a03a9ebef68776e16",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "R3",
+          "formulaName": "R3",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 65.5992,
+            "y": 51.246900000000004
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "95a03a9ebef68776e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "0603WAF1203T5E",
+          "formulaName": "0603WAF1203T5E",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "95a03a9ebef68776"
+    },
+    {
+      "attrs": [
+        {
+          "globalIndex": "0fa6f75b2e635793e17",
+          "layerId": 3,
+          "key": "Footprint",
+          "showKey": false,
+          "value": "C0603",
+          "formulaName": "C0603",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        },
+        {
+          "globalIndex": "0fa6f75b2e635793e18",
+          "layerId": 3,
+          "key": "Designator",
+          "showKey": false,
+          "value": "C5",
+          "formulaName": "C5",
+          "showValue": true,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 65.2043,
+            "y": 60.0279
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": false
+        },
+        {
+          "globalIndex": "0fa6f75b2e635793e0",
+          "layerId": 3,
+          "key": "Device",
+          "showKey": false,
+          "value": "CC0603KRX7R9BB104",
+          "formulaName": "CC0603KRX7R9BB104",
+          "showValue": false,
+          "fontFamily": "default",
+          "fontSize": 4.5,
+          "rotation": 1.5707963267948966,
+          "locked": false,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "origin": 3,
+          "strokeWidth": 0.6,
+          "reverse": false,
+          "reverseExpansion": 0,
+          "silkColor": null,
+          "mirror": false,
+          "positionIsNull": true
+        }
+      ],
+      "parentPrimitiveId": "0fa6f75b2e635793"
+    }
+  ],
+  "nets": [
+    "VIN",
+    "EN",
+    "BST",
+    "SW",
+    "FB",
+    "COMP",
+    "COMP_RC",
+    "FREQ",
+    "GND",
+    "VOUT"
+  ]
+}

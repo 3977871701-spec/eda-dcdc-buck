@@ -1,0 +1,96 @@
+{
+  "create": [
+    {
+      "primitiveId": "f15bd4f18515f040",
+      "pourName": "GND_TOP_POUR",
+      "pourPriority": 2,
+      "lineWidth": 0.2
+    },
+    {
+      "primitiveId": "6be4bf4d61afde43",
+      "pourName": "GND_BOTTOM_POUR",
+      "pourPriority": 2,
+      "lineWidth": 0.2
+    }
+  ],
+  "after": [
+    {
+      "globalIndex": "f15bd4f18515f040",
+      "partition": "",
+      "type": "Copper Region",
+      "layerId": 1,
+      "start": {
+        "x": 9,
+        "y": 25
+      },
+      "width": 103,
+      "height": 45,
+      "cornerRadius": 2.8,
+      "net": "GND",
+      "locked": false,
+      "strokeWidth": 0.2,
+      "rotation": 0,
+      "path": [
+        [
+          "R",
+          90,
+          250,
+          1030,
+          450,
+          0,
+          28
+        ]
+      ],
+      "copperInfo": {
+        "style": "solid",
+        "gridLineWidth": 1,
+        "clearance": 2,
+        "keepIsland": true,
+        "optimization": true,
+        "name": "GND_TOP_POUR",
+        "optimizationValue": 0.8,
+        "order": 1
+      },
+      "pourPriority": 1
+    },
+    {
+      "globalIndex": "6be4bf4d61afde43",
+      "partition": "",
+      "type": "Copper Region",
+      "layerId": 2,
+      "start": {
+        "x": 9,
+        "y": 25
+      },
+      "width": 103,
+      "height": 45,
+      "cornerRadius": 2.8,
+      "net": "GND",
+      "locked": false,
+      "strokeWidth": 0.2,
+      "rotation": 0,
+      "path": [
+        [
+          "R",
+          90,
+          250,
+          1030,
+          450,
+          0,
+          28
+        ]
+      ],
+      "copperInfo": {
+        "style": "solid",
+        "gridLineWidth": 1,
+        "clearance": 2,
+        "keepIsland": true,
+        "optimization": true,
+        "name": "GND_BOTTOM_POUR",
+        "optimizationValue": 0.8,
+        "order": 1
+      },
+      "pourPriority": 1
+    }
+  ]
+}
